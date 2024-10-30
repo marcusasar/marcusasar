@@ -4,5 +4,5 @@ Hello, I'm Marcus a Data Analyst with expertise in data analysis and reporting, 
 
   - Designing relational databases.
   - Querying data using SQL.
-  _ Developing dashoards on Tableau and Excel.
+  - Developing dashoards on Tableau and Excel.
   - Data analysis and reporting using SQL and Excel.
