@@ -9,4 +9,4 @@ Hello, I'm Marcus a Data Analyst with expertise in data analysis and reporting, 
 
 #### 🚢Projects
 
-Welcome to my portfolio, where I showcase my [ projects ]([Sales.sql](https://github.com/marcusasar/SQL_Product_Sales/tree/main/Sales%20Analysis))
+Welcome to my portfolio, where I showcase my [ projects ]([Sales.sql])
