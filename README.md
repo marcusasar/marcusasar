@@ -10,7 +10,7 @@ Hello, I'm Marcus a Data Analyst with expertise in data analysis and reporting, 
   - Developing dashoards on Tableau and Excel.
   - Data analysis and reporting using SQL and Excel.
 
-#### 📚Projects
+### 📚Projects
 
 Welcome to my portfolio, where I showcase my [ projects ](Project_sql)
 
