@@ -21,5 +21,4 @@ Welcome to my portfolio, where I showcase my [ projects ](Project_sql)
 
 ### 👋🏼Connect with Me
 - [LinkedIn](//linkedin.com/in/marcus-asare-9342a9275)
-- -
 
