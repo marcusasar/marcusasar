@@ -20,5 +20,5 @@ Welcome to my portfolio, where I showcase my [ projects ](Project_sql)
 - Visualization: Tableau
 
 ## 👋🏼Connect with Me
--[LinkedIn](www.linkedin.com/in/marcus-asare-9342a9275)
+- [LinkedIn](www.linkedin.com/in/marcus-asare-9342a9275)
 
