@@ -12,7 +12,7 @@ Hello, I'm Marcus a Data Analyst with expertise in data analysis and reporting, 
 
 ### 📚Projects
 
-Welcome to my portfolio, where I showcase my [ projects ](Project_sql)
+Welcome to my portfolio, where I showcase my [ projects ](Portfolio-Guide)
 
 ### 🛠️Tools
 - Language: SQL
