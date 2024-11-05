@@ -16,3 +16,4 @@ Welcome to my portfolio, where I showcase my [ projects ](Project_sql)
 
 ### 🛠️Tools
 - Language: SQL
+- Database: Oracle, PostreSQL, MySQL
