@@ -18,3 +18,7 @@ Welcome to my portfolio, where I showcase my [ projects ](Project_sql)
 - Language: SQL
 - Database: Oracle, PostreSQL, MySQL
 - Visualization: Tableau
+
+## 👋🏼Connect with Me
+-[LinkedIn](www.linkedin.com/in/marcus-asare-9342a9275)
+
