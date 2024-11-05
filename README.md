@@ -15,3 +15,4 @@ Hello, I'm Marcus a Data Analyst with expertise in data analysis and reporting, 
 Welcome to my portfolio, where I showcase my [ projects ](Project_sql)
 
 ### 🛠️Tools
+- Language: SQL
