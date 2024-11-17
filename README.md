@@ -17,6 +17,7 @@ Welcome to my portfolio, where I showcase my [ projects ](https://github.com/mar
 ### 🛠️Tools
 - Language: SQL
 - Database: Oracle, PostreSQL, MySQL
+- Spreadsheet: Excel, Google Sheet
 - Visualization: Tableau
 
 ### 👋🏼Connect with Me
